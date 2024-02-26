@@ -1,0 +1,3 @@
+[submodule "lookncook-server"]
+	path = lookncook-server
+	url = https://github.com/gdsc-ys/lookncook-server.git
