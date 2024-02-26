@@ -98,7 +98,10 @@ The application aids visually impaired with a voiceover guide.
 
 ![KakaoTalk_Photo_2024-02-26-10-39-23](https://github.com/gdsc-ys/lookncook-server/assets/95014836/1ff8df59-5494-41c2-8a0b-2cb1347ea2d8)
 
-LookNCook application uses `Firestore` to store data and `Cloud Run` to deploy.  
+LookNCook application uses `Firestore` to store data and `Cloud Run` to deploy. For analyzing fridge image and cooking environment, we used `Gemini api`. 
+
+If a dangerous situation arises for the user, we utilize `FCM (Firebase Cloud Messaging)` to send notifications to the caregiver.
+
 
 ## 🔗 Link to other repositories
 - [LookNCook-Server](https://github.com/gdsc-ys/lookncook-server)
