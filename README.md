@@ -107,9 +107,9 @@ LookNCook application uses `Firestore` to store data and `Cloud Run` to deploy.
 ## 💙 Contributors
 
 
-| [Soobeen Kim](https://github.com/suekim3028) | [Yongjae Kim](https://github.com/longlivedrgn) | [Hyunjin Kim](https://github.com/hjhyunjinkim) | [Soeun Uhm](https://github.com/ddoddii) |
-|----------------------------------------------|------------------------------------------------|-----------------|-----------------------------------------|
-| <img src="https://avatars.githubusercontent.com/u/68975409?v=4">                                            | <img src="https://avatars.githubusercontent.com/u/85781941?v=4">                                              | <img src="">               | <img src="https://avatars.githubusercontent.com/u/95014836?v=4">                                       |
-| Flutter/Design                               | Flutter                                        | ML              | Server                                  |
+| [Soobeen Kim](https://github.com/suekim3028) | [Yongjae Kim](https://github.com/longlivedrgn) | [Hyunjin Kim](https://github.com/hjhyunjinkim)                                                                                               | [Soeun Uhm](https://github.com/ddoddii) |
+|----------------------------------------------|------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| <img src="https://avatars.githubusercontent.com/u/68975409?v=4">                                            | <img src="https://avatars.githubusercontent.com/u/85781941?v=4">                                              | <img width="380" alt="image" src="https://github.com/hjhyunjinkim/3D_machine_learning/assets/95014836/c7c15c58-e30b-43c2-a8b1-bf5607a7c6c2"> | <img src="https://avatars.githubusercontent.com/u/95014836?v=4">                                       |
+| Flutter/Design                               | Flutter                                        | ML                                                                                                                                           | Server                                  |
 
 
