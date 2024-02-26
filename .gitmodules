@@ -1,3 +1,6 @@
 [submodule "lookncook-server"]
 	path = lookncook-server
 	url = https://github.com/gdsc-ys/lookncook-server.git
+[submodule "LooknCook-flutter"]
+	path = LooknCook-flutter
+	url = https://github.com/gdsc-ys/LooknCook-flutter.git
